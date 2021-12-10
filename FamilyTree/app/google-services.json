@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428543259546",
+    "project_id": "familytree-91f1a",
+    "storage_bucket": "familytree-91f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428543259546:android:9eb07b2fbd255e0d334023",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.familytree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428543259546-2vpg9b67igjdq85gobcpk9n5ue5nf5dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYX3s8ODPhB4qSBEfifRIy3OsDF7S4euY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428543259546-2vpg9b67igjdq85gobcpk9n5ue5nf5dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

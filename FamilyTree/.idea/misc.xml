@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/button_background.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/button_background_details.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/button_background_female.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/dialog_holo.xml" value="0.21846153846153846" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/activity_details.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/activity_family_tree.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/activity_family_tree_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/activity_first_member_dialog_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/app_bar_family_tree.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/content_family_tree.xml" value="0.2" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/content_family_tree_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/dialog_first_member.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/dialog_new_family_member.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/nav_header_family_tree.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/layout/nav_header_family_tree_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/menu/activity_main_drawer.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Reka/Desktop/BME/Szakdoga/FamilyTree/app/src/main/res/menu/family_tree_view.xml" value="0.1359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
